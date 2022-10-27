@@ -4,7 +4,9 @@
 <br><br>
 **py_test.py** contains the submission for the Python test.
 <br><br>
-The sample command line options are logged in **sample_gen.txt** where you can change the placeholder arguments with anything you want to test the function with.
+The sample command line options are logged in **sample_gen.txt** for the General Test and in **sample_py.txt** for the Python Test.
+<br><br>
+You can change the placeholder arguments with any other argument you want to test the function with.
 <br><br>
 Keep in mind each question has it's own flag and number of arguments required to be passed.
 <br><br>
