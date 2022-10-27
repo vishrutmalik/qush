@@ -1,0 +1,2 @@
+1)  python3 py_test.py --gen 102030 3
+2)  python3 py_test.py --second 3

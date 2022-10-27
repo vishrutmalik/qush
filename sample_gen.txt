@@ -1,0 +1,4 @@
+1)  python3 gen_test.py --fib 
+2)  python3 gen_test.py --merge "[2,4,9]" "[4,9,9,10,16]"
+3)  python3 gen_test.py --checkEven 26440
+4)  python3 gen_test.py --eval 3  
